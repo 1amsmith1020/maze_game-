@@ -1,0 +1,29 @@
+go south
+take bump key
+go west
+take flashlight
+go west
+use flashlight
+use shower
+go east
+go east
+go east
+take crowbar
+go west
+go south
+use flashlight
+use flashlight
+take sub machine gun
+take butter knife
+go south
+use flashlight
+use sub machine gun
+use sub machine gun
+go west
+take glass shard
+go north
+go east
+use flashlight
+use sub machine gun
+go west
+use warden key
